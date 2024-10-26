@@ -1,6 +1,6 @@
 ## IMPORTANT INFO
 #### This version contains the official code copied from what the author uploaded on OpenReview and published here on GitHub.
-#### You can download the original file [here](https://openreview.net/forum?id=uPdS_7pdA9p).
+#### You can also download the original file [here](https://openreview.net/forum?id=uPdS_7pdA9p).
 
 
 ---
