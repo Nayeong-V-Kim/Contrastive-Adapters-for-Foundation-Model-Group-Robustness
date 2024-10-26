@@ -1,3 +1,10 @@
+## IMPORTANT INFO
+#### This version contains the official code copied from what the author uploaded on OpenReview and published here on GitHub.
+#### You can download the original file [here](https://openreview.net/forum?id=uPdS_7pdA9p).
+
+
+---
+---
 # Code for: Contrastive Adapters for Foundation Model Group Robustness
 This folder contains code for our NeurIPS 2022 submission.
 
